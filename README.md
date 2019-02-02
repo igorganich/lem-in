@@ -62,7 +62,7 @@ In case of invalid "farm" program will display "Error".
 
 ## Bonuses
 There are some bonuses in my project:
-Put one of this commands in the start of your map:
+Put some of this commands in the start of your map:
 
 ```##colour``` - print all output in colour for more understandable check.
 
